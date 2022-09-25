@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>647009775572-l2mhb2ser39688b83bt0jlt2ql1bn6n1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.647009775572-l2mhb2ser39688b83bt0jlt2ql1bn6n1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBl5lk7mw1R8wOSN1zZEKSgJC3fdDLUaTo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>647009775572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ozel.pets</string>
+	<key>PROJECT_ID</key>
+	<string>azok-8581b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>azok-8581b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:647009775572:ios:936c01aec39085b74c3041</string>
+	<key>DATABASE_URL</key>
+	<string>https://azok-8581b.firebaseio.com</string>
+</dict>
+</plist>
